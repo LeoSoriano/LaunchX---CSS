@@ -20,32 +20,32 @@ div{
 }
 
 .fondoImagen{
-    background-image: url("../images/phantom.jpg");
+    background-image: url("../CSS/Imagenes/fondo1.jpg");
 }
 
 .fondoRepetidoX{
-    background-image: url("../images/phantom.jpg");
+    background-image: url("../CSS/Imagenes/fondo2.jpg");
     background-repeat: repeat-x;
 }
 
 .fondoRepetidoY{
-    background-image: url("../images/phantom.jpg");
+    background-image: url("../CSS/Imagenes/fondo1.jpg");
     background-repeat: repeat-y;
 }
 
 .fondoNoRepetido{
-    background-image: url("../images/phantom.jpg");
+    background-image: url("../CSS/Imagenes/fondo2.jpg");
     background-repeat: no-repeat;
 }
 
 .fondoPosicion{
-    background-image: url("../images/phantom.jpg");
+    background-image: url("../CSS/Imagenes/fondo1.jpg");
     background-repeat: no-repeat;
     background-position: bottom right;
 }
 
 .fondoCompleto{
-    background-image: url("../images/phantom.jpg");
+    background-image: url("../CSS/Imagenes/fondo2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
